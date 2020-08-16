@@ -17,6 +17,6 @@ Hello! I'm the founder of programmingSolvesProblems. I'll post what I've made he
 
 ### Follow programmingSolvesProblems on: 
 
-```Instagram: @[programming_sp](https://www.instagram.com/programming_sp/) and ![Image](src)```
+Instagram: @[programming_sp](https://www.instagram.com/programming_sp/) 
 
 
