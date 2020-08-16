@@ -8,15 +8,15 @@ Hello! I'm the founder of programmingSolvesProblems. I'll post what I've made he
 
 ## Popular Projects
 
-**Stay Tunned (๑˃ᴗ˂)ﻭ** 
+```Stay Tunned (๑˃ᴗ˂)ﻭ```
 
 ## Recent Projects 
 
-**Stay Tunned (๑˃ᴗ˂)ﻭ** 
+```Stay Tunned (๑˃ᴗ˂)ﻭ```
 
 
 ### Follow programmingSolvesProblems on: 
 
-1. Instagram: @[programming_sp](https://www.instagram.com/programming_sp/) and ![Image](src)
+```Instagram: @[programming_sp](https://www.instagram.com/programming_sp/) and ![Image](src)```
 
 
